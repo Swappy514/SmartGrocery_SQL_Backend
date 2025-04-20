@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # SmartGrocery: E-Commerce SQL Database
 
 A SQL database project for managing an online grocery store. It includes customer management, shopkeeper inventory, order placement, and analytics.
@@ -21,7 +19,6 @@ A SQL database project for managing an online grocery store. It includes custome
 
 ## 📌 Use Case
 Ideal for academic projects and as a backend blueprint for a hyper-local e-commerce platform like PadosiMart.
-=======
+
 # SmartGrocery_SQL_Backend
 A complete MySQL backend for SmartGrocery—built for hyperlocal e-commerce platforms like PadosiMart. Includes a scalable schema, rich sample data, and queries for order tracking, inventory, and customer analytics.
->>>>>>> bbba35c194d1cf5d6dc76585b6f63aba781a7ff7
